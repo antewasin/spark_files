@@ -1,0 +1,17 @@
+pokemon_id,pokemon_name,type1,type2,total,hp,attack,defense,speed,region
+1,Bulbasaur,Grass,Poison,318,45,49,49,45,Kanto
+2,Ivysaur,Grass,Poison,405,60,62,63,60,Kanto
+3,Venusaur,Grass,Poison,525,80,82,83,80,Kanto
+4,Charmander,Fire,,309,39,52,43,65,Kanto
+5,Charmeleon,Fire,,405,58,64,58,80,Kanto
+6,Charizard,Fire,Flying,534,78,84,78,100,Kanto
+7,Squirtle,Water,,314,44,48,65,43,Kanto
+8,Wartortle,Water,,405,59,63,80,58,Kanto
+9,Blastoise,Water,,530,79,83,100,78,Kanto
+10,Pikachu,Electric,,320,35,55,40,90,Kanto
+11,Jigglypuff,Fairy,Normal,270,115,45,20,20,Kanto
+12,Zubat,Poison,Flying,245,40,45,35,55,Kanto
+13,Golbat,Poison,Flying,455,75,80,70,90,Kanto
+14,Oddish,Grass,Poison,320,45,50,55,30,Kanto
+15,Gloom,Grass,Poison,395,60,65,70,40,Kanto
+16,Vileplume,Grass,Poison,490,75,80,85,50,Kanto
