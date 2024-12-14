@@ -38,8 +38,6 @@ df.show(truncate=False)
 
 # COMMAND ----------
 
-f1 = df.first()
-d = df.filter(df!=f1)
 
 # COMMAND ----------
 
