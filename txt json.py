@@ -1,10 +1,6 @@
 # Databricks notebook source
 
-spark.conf.set("fs.azure.account.auth.type.storageansh.dfs.core.windows.net", "OAuth")
-spark.conf.set("fs.azure.account.oauth.provider.type.storageansh.dfs.core.windows.net", "org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider")
-spark.conf.set("fs.azure.account.oauth2.client.id.storageansh.dfs.core.windows.net", "73b19484-4367-47ae-9797-29c5c0eddafc")
-spark.conf.set("fs.azure.account.oauth2.client.secret.storageansh.dfs.core.windows.net", "GT98Q~8OthIGccstIBhrF1IXU3Tz1df6HJgXGbVQ")
-spark.conf.set("fs.azure.account.oauth2.client.endpoint.storageansh.dfs.core.windows.net", "https://login.microsoftonline.com/55cca473-f9ef-4ccb-ba85-dec3acbc0a2c/oauth2/token")
+
 
 # COMMAND ----------
 
