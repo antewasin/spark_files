@@ -2,6 +2,9 @@
 -- MAGIC %python
 -- MAGIC x = 5
 
+
+
+-- https://leetcode.ca/2021-04-19-1767-Find-the-Subtasks-That-Did-Not-Execute/
 -- COMMAND ----------
 
 create schema leet
